@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T07:10:09.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="OQoHCuNwiLIALUYzV0ZU" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T07:10:57.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="yvs26ilOavNL8pyi1Z8N" version="23.1.1" type="github">
   <diagram name="Page-1" id="Aiy-KfELIoUU_bPKOlKO">
     <mxGraphModel dx="1050" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="OeiVvb4dM5WIbdZiZChC-27" value="Booking Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OeiVvb4dM5WIbdZiZChC-28" value="&lt;div&gt;Manage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="108" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
