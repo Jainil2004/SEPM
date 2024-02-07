@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T12:41:49.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="K7GgRbkWXKgdbc51lzd9" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T12:45:14.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="RvnS-lqzsr74sLszFJti" version="23.1.1" type="github">
   <diagram name="Page-1" id="HhVnLrRgJdS6RBluf7-d">
     <mxGraphModel dx="1050" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="RzOlFjbawpft9Q3hgGmu-22" value="pay using card" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RzOlFjbawpft9Q3hgGmu-21">
           <mxGeometry y="26" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RzOlFjbawpft9Q3hgGmu-23" value="D1: Property DataStore" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="RzOlFjbawpft9Q3hgGmu-23" value="D1: Property details DataStore" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="790" y="444" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RzOlFjbawpft9Q3hgGmu-24" value="D2: User details DataStore" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
