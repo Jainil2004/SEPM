@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T14:18:20.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Ox0ihh311vL90xg_93z9" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T14:25:29.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Q2t-OqUkbrUoRhBmP4BG" version="24.2.2" type="github">
   <diagram name="Page-1" id="hFF87aVBNNckT51f4aF9">
-    <mxGraphModel dx="921" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,6 +47,12 @@
         <mxCell id="SiMttqf032CdRBXON2kf-13" value="Overview/ Home page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SiMttqf032CdRBXON2kf-15" target="SiMttqf032CdRBXON2kf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SiMttqf032CdRBXON2kf-15" target="SiMttqf032CdRBXON2kf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SiMttqf032CdRBXON2kf-15" value="&lt;div&gt;Search properties/ &lt;br&gt;&lt;/div&gt;&lt;div&gt;filter props&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -71,6 +77,81 @@
         </mxCell>
         <mxCell id="SiMttqf032CdRBXON2kf-21" value="&lt;div&gt;authentication failed&lt;/div&gt;&lt;div&gt;{failure threshold &amp;lt;= 3}&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-22" value="&lt;div&gt;authentication successful&lt;/div&gt;&lt;div&gt;/ Login successful&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SiMttqf032CdRBXON2kf-23" target="SiMttqf032CdRBXON2kf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-23" value="add proposal " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-25" value="property selected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="158" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.596;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SiMttqf032CdRBXON2kf-23" target="SiMttqf032CdRBXON2kf-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="245" />
+              <mxPoint x="540" y="290" />
+              <mxPoint x="472" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-27" value="proposal rejected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="288" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SiMttqf032CdRBXON2kf-28" target="SiMttqf032CdRBXON2kf-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="173" />
+              <mxPoint x="770" y="260" />
+              <mxPoint x="670" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-28" value="&lt;div&gt;Payment&lt;/div&gt;&lt;div&gt;id, port&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-30" value="property selected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="78" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-32" value="proposal accepted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SiMttqf032CdRBXON2kf-34" target="SiMttqf032CdRBXON2kf-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-34" value="verify payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-36" value="pay details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SiMttqf032CdRBXON2kf-34" target="SiMttqf032CdRBXON2kf-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="430" />
+              <mxPoint x="560" y="430" />
+              <mxPoint x="560" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-38" value="&lt;div&gt;verification failed&lt;/div&gt;&lt;div&gt;{failure threshold&lt;/div&gt;&lt;div&gt;&amp;lt;= 3} &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SiMttqf032CdRBXON2kf-39" target="SiMttqf032CdRBXON2kf-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-39" value="contract approved" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-41" value="payment successful" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SiMttqf032CdRBXON2kf-42" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="655" y="555" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
