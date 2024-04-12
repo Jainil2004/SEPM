@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T16:35:37.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="fR1KjX4cf_yLGChOf-zr" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T16:39:43.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="R1hQV4rZKgQ4lSuj15dx" version="24.2.2" type="github">
   <diagram name="Page-1" id="PJCeMrMj4Vyedgyr_I_T">
     <mxGraphModel dx="1290" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,6 +47,14 @@
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-5" value="proposal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PsoDGtH_OK0kcYJgYpUA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsoDGtH_OK0kcYJgYpUA-6" target="PsoDGtH_OK0kcYJgYpUA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="490" />
+              <mxPoint x="760" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-6" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="120" height="40" as="geometry" />
         </mxCell>
@@ -76,8 +84,7 @@
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsoDGtH_OK0kcYJgYpUA-7" target="PsoDGtH_OK0kcYJgYpUA-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="300" />
-              <mxPoint x="250" y="500" />
+              <mxPoint x="240" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,13 +92,13 @@
           <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-14" value="&lt;div&gt;1. request&lt;/div&gt;&lt;div&gt;3. login_request&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="43" width="110" height="40" as="geometry" />
+          <mxGeometry x="285" y="50" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-15" value="&lt;div&gt;2. acknowledge&lt;/div&gt;&lt;div&gt;6. login response&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="105" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PsoDGtH_OK0kcYJgYpUA-17" value="4. verify login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="128" width="90" height="30" as="geometry" />
+        <mxCell id="PsoDGtH_OK0kcYJgYpUA-17" value="&lt;div&gt;4. verify login&lt;/div&gt;&lt;div&gt;18. save payment&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="118" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-18" value="5. respond login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="555" y="118" width="110" height="30" as="geometry" />
@@ -113,8 +120,8 @@
         </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="250" as="sourcePoint" />
-            <mxPoint x="674" y="250" as="targetPoint" />
+            <mxPoint x="387" y="488" as="sourcePoint" />
+            <mxPoint x="331" y="488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -136,13 +143,28 @@
           <mxGeometry x="454" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-35" value="&lt;div&gt;12. add selected&lt;/div&gt;&lt;div&gt;&amp;nbsp;property&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="210" width="110" height="40" as="geometry" />
+          <mxGeometry x="610" y="200" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-37" value="14. save proposal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="288" width="120" height="30" as="geometry" />
+          <mxGeometry x="620" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PsoDGtH_OK0kcYJgYpUA-39" value="15. propose payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="495" y="438" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PsoDGtH_OK0kcYJgYpUA-42" value="16. verify payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="488" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PsoDGtH_OK0kcYJgYpUA-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="260" as="sourcePoint" />
+            <mxPoint x="770" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsoDGtH_OK0kcYJgYpUA-44" value="&lt;div&gt;17. payment&lt;/div&gt;&lt;div&gt;verification status&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsoDGtH_OK0kcYJgYpUA-45" value="&lt;div&gt;19. payment&lt;/div&gt;&lt;div&gt;status&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="443" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
